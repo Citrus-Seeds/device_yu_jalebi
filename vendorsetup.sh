@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo XOS_jalebi-userdebug
-add_lunch_combo XOS_jalebi-user
-add_lunch_combo XOS_jalebi-eng
+add_lunch_combo citrus_jalebi-userdebug
+add_lunch_combo citrus_jalebi-user
+add_lunch_combo citrus_jalebi-eng
