@@ -15,12 +15,12 @@
 $(call inherit-product, device/yu/jalebi/full_jalebi.mk)
 
 # Inherit some common XOS stuff.
-$(call inherit-product, vendor/xos/config/common.mk)
+$(call inherit-product, vendor/citrus/common.mk)
 
 # Must define platform variant before including any common things
 TARGET_BOARD_PLATFORM_VARIANT := msm8916
 
-PRODUCT_NAME := XOS_jalebi
+PRODUCT_NAME := citrus_jalebi
 BOARD_VENDOR := yu
 PRODUCT_DEVICE := jalebi
 
