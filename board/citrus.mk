@@ -1,0 +1,6 @@
+# citrus hax
+TARGET_USE_CM_RAMDISK := true
+USE_SENSOR_MULTI_HAL := true
+TARGET_PROVIDES_CALMODULE := true
+WITH_OWN_CHARGER := true
+
