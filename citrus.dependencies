@@ -12,6 +12,6 @@
   {
     "repository": "halogenOS/android_kernel_cyanogen_msm8916",
     "target_path": "kernel/cyanogen/msm8916",
-    "branch":       "XOS-7.0"
+    "branch":       "XOS-7.1"
   }
 ]
