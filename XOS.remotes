@@ -1,7 +1,0 @@
-[
-  {
-    'url' : 'https://gitlab.com',
-    'name' : 'gitlab',
-    'default_revision' : 'master'
-  }
-]
