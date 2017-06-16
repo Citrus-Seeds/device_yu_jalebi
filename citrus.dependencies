@@ -6,7 +6,7 @@
   },
   {
     "repository": "halogenOS/android_vendor_yu_jalebi",
-    "target_path": "vendor/yu",
+    "target_path": "vendor/yu/jalebi",
     "branch":       "XOS-7.1"
   },
   {
